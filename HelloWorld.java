@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("dev1 has changed");
         System.out.println("dev2 has changed");
         System.out.println("dev1 has changed twice");
+        System.out.println("dev2 has changed twice");
     }
 }
